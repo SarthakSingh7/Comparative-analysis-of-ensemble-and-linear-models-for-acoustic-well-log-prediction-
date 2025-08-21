@@ -1,6 +1,5 @@
 # Comparative-analysis-of-ensemble-and-linear-models-for-acoustic-well-log-prediction
 
-# Comparative-analysis-of-ensemble-and-linear-models-for-acoustic-well-log-prediction
 This repository contains the code and resources related to the study titled "Comparative analysis of ensemble and linear models for acoustic well log prediction" This study focuses on forecasting missing acoustic well log values using four machine learning algorithms including Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
 
 ## Study Approach
